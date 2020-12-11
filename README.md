@@ -11,13 +11,13 @@ For example, for day 1, put `1.txt` into the directory `input`.
 Then, from the project root, run:
 
 ```python
-python lib/day<x>.py
+python day<x>.py
 ```
 
 For example, for day 1:
 
 ```python
-python lib/day1.py
+python day1.py
 ```
 
 ## Test
