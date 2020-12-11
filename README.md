@@ -11,13 +11,13 @@ For example, for day 1, put `1.txt` into the directory `input`.
 Then, from the project root, run:
 
 ```python
-python day<x>.py
+python days/day<x>.py
 ```
 
 For example, for day 1:
 
 ```python
-python day1.py
+python days/day1.py
 ```
 
 ## Test
